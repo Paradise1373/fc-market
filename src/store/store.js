@@ -5,7 +5,7 @@ import {
   productDetailReducer,
 } from '../reducer/productReducer'
 
-import { cartReducer } from '../reducer/CartReducer'
+import { cartReducer } from '../reducer/cartReducer'
 
 import { thunk } from 'redux-thunk'
 
